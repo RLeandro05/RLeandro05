@@ -18,5 +18,5 @@ Here are some ideas to get you started: -->
 - ✍️ Además, estoy trabajando en proyectos personales para mejorar y seguir fresco con el conocimiento
   que voy adquiriendo de distintos lenguajes de programación y marcado.
 
-- 🤓 Si quieresa saber más de mí, mis proyectos, experiencias, certificados y demás, acceda al siguiente enlace:
+- 🤓 Si quieres saber más de mí, mis proyectos, experiencias, certificados y demás, acceda al siguiente enlace:
   👉 Linkedin: https://www.linkedin.com/in/leandro-ligero-91040830b/
