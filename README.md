@@ -6,10 +6,10 @@
 Here are some ideas to get you started: -->
 
 - 🔭 Actualmente, estoy estudiando en mi 2º curso de DAW, interiorizando aspectos tales como:
-    + Programación: Java, PHP y JavaScript
+    + Programación: Java, PHP, JavaScript y TypeScript
     + Marcado: HTML5 y CSS3
-    + Bases de datos: SQL (Oracle)
-    + Frameworks: Angular
+    + Bases de datos: SQL (Oracle) y MySQL
+    + Frameworks: Angular, BootStrap
     Y más adelante...
 
 - 🌱 Hoy en día, en mis tiempos libres, me deddico a realizar cursos de este mismo entorno,
