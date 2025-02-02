@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
     + Marcado: HTML5 y CSS3
     + Bases de datos: SQL (Oracle) y MySQL
     + Frameworks: Angular, BootStrap
-    Y más adelante...
+    + Y más adelante...
 
 - 🌱 Hoy en día, en mis tiempos libres, me deddico a realizar cursos de este mismo entorno,
   aprendiendo nuevas tecnologías y herramientas para este mundillo lleno de código.
