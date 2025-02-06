@@ -19,4 +19,4 @@ Here are some ideas to get you started: -->
   que voy adquiriendo de distintos lenguajes de programación y marcado.
 
 - 🤓 Si quieres saber más de mí, mis proyectos, experiencias, certificados y demás, acceda al siguiente enlace:
-     +  👉 Linkedin: https://www.linkedin.com/in/leandro-ligero-91040830b/
+     +  👉 LinkedIn: https://www.linkedin.com/in/leandro-ligero-91040830b/
