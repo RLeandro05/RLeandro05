@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
     + Frameworks: Angular, BootStrap
     + Y más adelante...
 
-- 🌱 Hoy en día, en mis tiempos libres, me deddico a realizar cursos de este mismo entorno,
+- 🌱 Hoy en día, en mis tiempos libres, me dedico a realizar cursos de este mismo entorno,
   aprendiendo nuevas tecnologías y herramientas para este mundillo lleno de código.
 
 - ✍️ Además, estoy trabajando en proyectos personales para mejorar y seguir fresco con el conocimiento
