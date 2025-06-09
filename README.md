@@ -57,7 +57,7 @@ Trabajo en proyectos propios y académicos, los cuales puedes encontrar en mis r
 ¿Quieres saber más sobre mí?
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/leandro-ligero-91040830b/">
+  <a href="https://www.linkedin.com/in/leandro-ligero-91040830b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Ligero-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
