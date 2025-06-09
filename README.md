@@ -47,7 +47,7 @@ Trabajo en proyectos propios y académicos, los cuales puedes encontrar en mis r
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandroligero&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Leandro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RLeandro05&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Leandro" />
 </p>
 
 ---
