@@ -1,15 +1,22 @@
 <h1 align="center">👋 ¡Hola! Soy Leandro Ligero</h1>
 
 <p align="center">
-🎓 Estudiante de Desarrollo de Aplicaciones Web · 🌱 Apasionado por el aprendizaje continuo · 💻 Explorador de tecnologías web
+🎓 Graduado en Desarrollo de Aplicaciones Web · 🌱 Apasionado por el aprendizaje continuo · 💻 Explorador de tecnologías web
 </p>
 
 ---
 
 ## 📚 Sobre mí
 
-Actualmente curso el **2º año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, donde estoy profundizando en tecnologías como:
+Actualmente curso el **Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)**, donde estoy profundizando en diversos módulos tales como:
+**Hacking ético**
+**Bastionado de Redes y Sistemas**
+**Puesta en Producción Segura**
+.
+.
+.
 
+Tengo conocimiento en las principales tecnologías del sector, como:
 - **Lenguajes de programación**: Java, PHP, JavaScript, TypeScript  
 - **Tecnologías de marcado y estilo**: HTML5, CSS3  
 - **Bases de datos**: SQL (Oracle y MySQL)  
