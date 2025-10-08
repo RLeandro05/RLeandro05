@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Leandro Ligero</h1>
 
 <p align="center">
-🎓 Graduado en Desarrollo de Aplicaciones Web · 🌱 Apasionado por el aprendizaje continuo · 💻 Explorador de tecnologías web
+🎓 Graduado en Desarrollo de Aplicaciones Web · 🎓 Estudiante de Ciberseguridad en Entornos de las Tecnologías de la información (CETI) · 🌱 Apasionado por el aprendizaje continuo · 💻 Explorador de tecnologías web
 </p>
 
 ---
