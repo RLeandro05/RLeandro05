@@ -1,70 +1,45 @@
-<h1 align="center">👋 ¡Hola! Soy Leandro Ligero</h1>
+# 👨‍💻 Leandro Ligero
 
-<p align="center">
-🎓 Graduado en Desarrollo de Aplicaciones Web · 🎓 Estudiante de Ciberseguridad en Entornos de las Tecnologías de la información (CETI) · 🌱 Apasionado por el aprendizaje continuo · 💻 Explorador de tecnologías web
-</p>
+## 👋 Sobre mí
 
----
-
-## 📚 Sobre mí
-
-Actualmente curso el **Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)**, donde estoy profundizando en diversos módulos tales como:
-**Hacking ético**
-**Bastionado de Redes y Sistemas**
-**Puesta en Producción Segura**
-.
-.
-.
-
-Tengo conocimiento en las principales tecnologías del sector, como:
-- **Lenguajes de programación**: Java, PHP, JavaScript, TypeScript  
-- **Tecnologías de marcado y estilo**: HTML5, CSS3  
-- **Bases de datos**: SQL (Oracle y MySQL)  
-- **Frameworks y herramientas**: Angular, Bootstrap  
-- **CMS**: WordPress  
-
-En mi tiempo libre complemento mi formación con cursos online y proyectos personales para afianzar mis conocimientos y mantenerme al día con las últimas tecnologías.
+Estudiante de Ciberseguridad con formación en Desarrollo de Aplicaciones Web (DAW). Actualmente enfocado en análisis de tráfico, monitorización de seguridad y comprensión del funcionamiento interno de sistemas y aplicaciones.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🔐 Ciberseguridad
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+- Análisis de tráfico con Wireshark  
+- Monitorización de eventos con Wazuh  
+- Detección de actividad sospechosa  
+- Gestión y análisis de logs  
+- Conocimientos en OWASP Top 10  
 
 ---
 
-## 💻 Proyectos
+## 🌐 Desarrollo Web
 
-Trabajo en proyectos propios y académicos, los cuales puedes encontrar en mis repositorios públicos. Me enfoco en seguir buenas prácticas, mantener una estructura clara y documentar correctamente el código.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RLeandro05&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Leandro" />
-</p>
+- Desarrollo Full Stack  
+- Angular (frontend)  
+- PHP (backend)  
+- MySQL (bases de datos)  
+- APIs REST (comunicación frontend-backend)  
 
 ---
 
-## 📬 Contacto
+## 🚀 Proyectos destacados
 
-¿Quieres saber más sobre mí?
+- 🔐 Entorno de monitorización con Wazuh en AWS  
+- 🌐 Aplicación web Full Stack (rally fotográfico)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandro-ligero-91040830b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Ligero-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
+
+## 🛠️ Tecnologías
+
+`Wireshark` · `Wazuh` · `Linux` · `AWS`  
+`Angular` · `PHP` · `MySQL` · `JavaScript`
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [tu perfil]  
