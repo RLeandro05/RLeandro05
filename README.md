@@ -42,4 +42,4 @@ Estudiante de Ciberseguridad con formación en Desarrollo de Aplicaciones Web (D
 
 ## 📫 Contacto
 
-- LinkedIn: [tu perfil]  
+- LinkedIn: linkedin.com/in/leandroligero
